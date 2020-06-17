@@ -1,0 +1,8 @@
+Dhaval Patel dp918
+Dan Garry dcg101
+
+a) In our coding project, we used a circular linked list as our fundamental data structure to keep track of the thread ids. The other data structure we used was queues in order to process the control blocks.
+
+b) Building the scheduler itself was the most challenging part of the process. The scheduler was the main component of the program and trying to create a scheduler thread gave us a hard time to implement since we wanted to try to implement in a real situation. Another challenging respect was creating the queue.c file and implementing it into our code. We simply had trouble managing our nodes yet we were able to figure it out in a clear mind. Even though we had a lot of time to do the project, the midterms got in our way of proper researching for the project, but eventually we were able to push our way through and overcome our obstacles.
+
+c) We could have used a linear array for our project. This way we could better and easier way of implement our tcb. Additionally, we believe we could use an advanced queue to implement our code better and help us process threads a little quicker and smoother.
